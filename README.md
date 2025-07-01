@@ -1,6 +1,7 @@
 # AiPol Pollinations Feed Grid
 
 **AiPol Pollinations Feed Grid** is a standalone PHP application to embed a grid-style feed. It does not require a database and runs on web spaces with PHP.
+https://www.clivio.biz/aipol-feed-pollinations
 
 ## 📋 Requirements
 
