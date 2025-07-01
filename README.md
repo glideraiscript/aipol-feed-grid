@@ -14,17 +14,29 @@
 3. Customize files in `/asset`, `/js`, `/css` if necessary to adapt the feed
 
 ## 📂 Main Structure
+
 /
+
 ├── index.php
+
 ├── asset/aipolfree.php
+
 ├── js/cb.js
+
 ├── js/app.min.js
+
 ├── css/feed.css
+
 ├── css/stylepop.css
+
 ├── sw.js
+
 ├── swfeed.js
+
 ├── indexfeed.js
+
 ├── manifestfeed.json
+
 ├── [icons and images]
 
 ## 🌐 PWA Ready?
